@@ -1,0 +1,5 @@
+Variables: La variable es un dato que tiene un valor, el cual utilizaremos para realizar las operaciones que necesitamos.
+Strings: Un string es un conjunto de caracteres, suelen ser los valores de texto de las variables. Para hacer un string se puede utilizar cualquier caracter pero no puede quedar ni sólo un número ni un comando como "var" o "function".
+Funciones: La función es una acción con un nombre, cada vez que queramos realizar esa acción invocamos la función tipeando su nombre. Esa operación se realiza a con los argumentos, que serían los datos otorgados previamente. Luego de realizar la función, nos devolverá un return, que sería un dato nuevo.
+Declaraciones: Nos permiten ejecutar un bloque de código si se cumple una condición u otra.
+Valores booleanos: Son resultados que obtenemos al comparar dos elementos. Dan como resultado true o false, dependiendo de lo que obtengamos de esa operación. 2 == 2 es true, 2 == 3 es false.

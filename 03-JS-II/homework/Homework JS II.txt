@@ -1,0 +1,4 @@
+For: Es un bucle que nos permite ejecutar un bloque de código mientras se cumpla una condición especificada. Esta condición se irá modificando y cuando se deje de cumplir se interrumpe la ejecución.
+&&: Significa "y", sirve para que se cumplan dos o mas condiciones al mismo tiempo.
+||: Significa "o", sirve para que funcione el código si se cumple alguna de las condiciones descritas.
+!: es la negación del valor booleano indicado. Si era true al poner un ! adelante se convierte en false y viceversa.
